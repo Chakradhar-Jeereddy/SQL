@@ -1,4 +1,4 @@
-##SUBQUERY
+## SUBQUERY
 ```
 A subquery is a query within another query, also called as nested or inner query.
 It can be used with select,insert,update and delete statements.
@@ -10,7 +10,7 @@ Co-related subquery
 The subquery that uses the values from outer query or dependent on the outer query is called co-related subquery.
 In co-corelated subquery, the result of outer query is dependent on inner query and the result of inner query is dependent on outer query.
 ```
-##IN, EXISTS
+## IN, EXISTS
 ```
 IN : To match a column or expression against list of values, the values can be direct or from result of a subquery.
 Syntax:
